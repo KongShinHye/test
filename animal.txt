@@ -1,3 +1,4 @@
 dog: 바둑이
 cat: 나비
 anaconda: 초록이
+bird: 파닥파닥
